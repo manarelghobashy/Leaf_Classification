@@ -14,3 +14,5 @@ differentiating plant species.
 - Label encoding, normalize, and split the data into train and test.
 - build the evaluation_model function.
 - train the model with different hyperparameters.
+
+- Data from: https://www.kaggle.com/c/leaf-classification/data
